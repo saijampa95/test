@@ -1,0 +1,18 @@
+Python 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> num1=10
+>>> num2=4
+>>> addition=num1+num2
+>>> subtraction=num1-num2
+>>> multiplication=num1*num2
+>>> division=num1/num2
+>>> print("sum of the number:",addition)
+sum of the number: 14
+>>> print("subtraction of the number:",subtraction)
+subtraction of the number: 6
+>>> print("multiplication of the number:",multiplication)
+multiplication of the number: 40
+>>> print("division of the number:",division)
+division of the number: 2.5
+>>>
+>>>
